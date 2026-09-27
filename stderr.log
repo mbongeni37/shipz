@@ -1,0 +1,398 @@
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/shipping/shipz/server/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:15)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/shipping/shipz/server/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.20.8
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/shipping/shipz/server/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:15)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/shipping/shipz/server/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+/home/shipping/shipz/server/db/index.js:5
+if(!process.env.DATABASE_URL) throw new Error('DATABASE_URL is missing');
+                              ^
+
+Error: DATABASE_URL is missing
+    at Object.<anonymous> (/home/shipping/shipz/server/db/index.js:5:37)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:1:154)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+
+Node.js v18.20.8
+TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:405:5)
+    at new URL (node:internal/url:676:13)
+    at parse (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-connection-string/index.js:30:16)
+    at new ConnectionParameters (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/connection-parameters.js:60:42)
+    at new Client (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/client.js:54:33)
+    at BoundPool.newClient (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:241:20)
+    at BoundPool.connect (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:235:10)
+    at BoundPool.query (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:449:10)
+    at initDb (/home/shipping/shipz/server/db/index.js:8:36)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:5:35) {
+  input: '*****REDACTED*****',
+  code: 'ERR_INVALID_URL'
+}
+TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:405:5)
+    at new URL (node:internal/url:676:13)
+    at parse (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-connection-string/index.js:30:16)
+    at new ConnectionParameters (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/connection-parameters.js:60:42)
+    at new Client (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/client.js:54:33)
+    at BoundPool.newClient (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:241:20)
+    at BoundPool.connect (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:235:10)
+    at BoundPool.query (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:449:10)
+    at initDb (/home/shipping/shipz/server/db/index.js:8:36)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:5:35) {
+  input: '*****REDACTED*****',
+  code: 'ERR_INVALID_URL'
+}
+TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:405:5)
+    at new URL (node:internal/url:676:13)
+    at parse (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-connection-string/index.js:30:16)
+    at new ConnectionParameters (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/connection-parameters.js:60:42)
+    at new Client (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/client.js:54:33)
+    at BoundPool.newClient (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:241:20)
+    at BoundPool.connect (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:235:10)
+    at BoundPool.query (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:449:10)
+    at initDb (/home/shipping/shipz/server/db/index.js:8:36)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:5:35) {
+  input: '*****REDACTED*****',
+  code: 'ERR_INVALID_URL'
+}
+TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:405:5)
+    at new URL (node:internal/url:676:13)
+    at parse (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-connection-string/index.js:30:16)
+    at new ConnectionParameters (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/connection-parameters.js:60:42)
+    at new Client (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg/lib/client.js:54:33)
+    at BoundPool.newClient (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:241:20)
+    at BoundPool.connect (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:235:10)
+    at BoundPool.query (/home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:449:10)
+    at initDb (/home/shipping/shipz/server/db/index.js:8:36)
+    at Object.<anonymous> (/home/shipping/shipz/server/index.js:5:35) {
+  input: '*****REDACTED*****',
+  code: 'ERR_INVALID_URL'
+}
+(node:1091009) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1091089) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1091265) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1091397) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1091522) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1097161) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1097292) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1097381) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
+(node:1097743) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Error: connect ECONNREFUSED 52.76.212.156:5432
+    at /home/shipping/nodevenv/shipz/server/18/lib/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDb (/home/shipping/shipz/server/db/index.js:8:25) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '52.76.212.156',
+  port: 5432
+}
